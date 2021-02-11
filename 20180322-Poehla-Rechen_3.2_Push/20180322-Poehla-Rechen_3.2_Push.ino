@@ -1,8 +1,11 @@
+  // Last Update: 2021 02 11
+  // Last Test Working: 2018 03 22
   // Wasserkraftanlage Pöhla
   // Steuerung für Rechenreiniger
   // von Florian Kaiser
   // Steuerung: Controllino MAXI
   // Anmerkungen: Blink noch verbessern(ohne Delay)
+  // Inhalte: Pushover + mqtt(noch im ausbau)
 
 String versionString = "2018-03-22 13:10 Version: 3.2 mit Pushover";
 
